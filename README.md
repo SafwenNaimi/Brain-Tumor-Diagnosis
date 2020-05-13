@@ -7,3 +7,6 @@ particularly in the case of a classification mistake. It also allows us to locat
 - Develop an application that can help doctors to access data and provide recommendation for patient.
 The diagnosis result can be verified by human professors. In fact, this application cannot replace human resource in healthcare. It can assist human to make the right decision if the knowledge base
 was built.
+
+Segmentation model : https://drive.google.com/open?id=1CbTkjxpct7hST99AIxyy01Mb5DNGrAE0
+Classification h5 model : 
