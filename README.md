@@ -9,4 +9,4 @@ The diagnosis result can be verified by human professors. In fact, this applicat
 was built.
 
 - Segmentation model : https://drive.google.com/open?id=1CbTkjxpct7hST99AIxyy01Mb5DNGrAE0-
-- Classification h5 model : 
+
